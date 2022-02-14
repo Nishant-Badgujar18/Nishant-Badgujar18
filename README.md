@@ -3,11 +3,8 @@
 <h3 align="center">Studying Computer Engineering at<br> College of Engineering, Pune</h3>
 
 <p align="center"><a href="mailto:nsbadgujar2001@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="c"/></a>
-  
 <a href="https://www.linkedin.com/in/nishant-badgujar-870b821b1/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="c"/></a>
-  
 <a href="https://www.instagram.com/nishantbadgujar_18/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="c"/></a>
-  
 <a href="https://www.hackerrank.com/nsbadgujar18" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="c"/></a>
 </p>
 
