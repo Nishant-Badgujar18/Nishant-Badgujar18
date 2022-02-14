@@ -28,7 +28,7 @@
 <h2 align="center">📈 Stats :</h2><br>
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nishant-Badgujar18&theme=dracula&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Nishant-Badgujar18" /></a></p><br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nishant-Badgujar18&show_icons=true&locale=en&count_private=true&theme=radical" width="470" alt="Nishant-Badgujar1" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Badgujar1&layout=compact&exclude_repo=PPL_Assignments&theme=radical" alt="Nishant-Badgujar1" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nishant-Badgujar18&show_icons=true&locale=en&count_private=true&theme=radical" width="470" alt="Nishant-Badgujar18" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Badgujar18&layout=compact&exclude_repo=PPL_Assignments&theme=radical" alt="Nishant-Badgujar18" />
 </p>
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant-Badgujar1&theme=radical" alt="Nishant-Badgujar1" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant-Badgujar18&theme=radical" alt="Nishant-Badgujar18" /></p>
