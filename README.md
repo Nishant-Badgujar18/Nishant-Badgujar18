@@ -27,7 +27,7 @@
 
 <h2 align="center">📈 Stats :</h2><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KunalC-1&theme=dracula&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="KunalC-1" /></a> </p><br>
-<p align="left">
+<p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=KunalC-1&show_icons=true&locale=en&count_private=true&theme=radical" width="470" alt="KunalC-1" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalC-1&layout=compact&exclude_repo=PPL_Assignments&theme=radical" alt="KunalC-1" />
 </p>
